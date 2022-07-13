@@ -1,2 +1,2 @@
-# AllaKohut_QA_sammer22
+# AllaKohut_QA_summer22
 My course
